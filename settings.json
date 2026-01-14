@@ -1,0 +1,11 @@
+{
+    "appearance_mode": "dark",
+    "ui_scaling": 1.0,
+    "enable_notifications": true,
+    "auto_save": true,
+    "backup_interval": 24,
+    "max_rows_per_page": 50,
+    "default_status": "active",
+    "color_theme": "blue",
+    "language": "ru"
+}
