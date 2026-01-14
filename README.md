@@ -100,3 +100,8 @@ class Plugin(BasePlugin):
         # Инициализация таблиц БД
         pass
 ```
+## 📱 Соцсети
+[[YouTube](https://www.youtube.com/@pravda_sempai)
+[[Rutube](https://rutube.ru/channel/41737058/)
+[[VK](https://vk.com/pravdasempai)
+[[Telegram](https://t.me/PRAVDASEMPAI)
