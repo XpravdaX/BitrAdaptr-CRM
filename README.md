@@ -1,6 +1,7 @@
 # БитрАдапт CRM
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![CustomTkinter](https://img.shields.io/badge/CustomTkinter-5.2-orange)](https://customtkinter.tomschimansky.com/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 Простая и гибкая CRM система для управления клиентами, задачами и отчетами с модульной архитектурой и системой плагинов.
